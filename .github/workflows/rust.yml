@@ -21,7 +21,7 @@ jobs:
         # Artifact name
         name: artifact # optional, default is artifact
         # A file, directory or wildcard pattern that describes what to upload
-        path: target\debug\honkai-dumper.exe
+        path: D:\a\honkai-dumper\honkai-dumper\target\debug\honkai-dumper.exe
         # The desired behavior if no files are found using the provided path.
         # Available Options:
         #   warn: Output a warning but do not fail the action
